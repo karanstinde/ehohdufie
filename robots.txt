@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geiwaicha.sabrafen.net/sitemap.xml
